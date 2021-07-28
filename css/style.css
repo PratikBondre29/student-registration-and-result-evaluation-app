@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.jumbotron {
+    padding: 0;
+    padding-top: 20px;
+    background: olivedrab;
+    margin-bottom: 0;
+}
+.jumbotron h1{
+    font-family: 'Courier New', Courier, monospace;    
+    font-size: 35px;
+    font-weight: 600;
+    letter-spacing: 2px;
+}
+.jumbotron h4 {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 550;
+}
+.heading1 {
+    margin-bottom: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 80px;
+}
+.form-box {
+    width: 45%;
+    margin: auto;
+    padding: 20px 20px 20px 20px;
+    box-sizing: border-box;
+    background : rgba(70, 69, 69, 0.4);
+    border-radius: 5%;
+}
+
+.login img {
+    height: auto;
+    width: 15%;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+}
+form {
+    width: 70%;
+    margin: auto;
+}
+
+/* admin page */
+.heading2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container .welcome {
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.container .welcome h4 {
+    font-family: cursive;
+    font-size: 25px;
+}
+.cards {
+    margin: auto;
+    width: 70%;
+}
+
+/* result management page */
+
+
+.tab-content {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+}
+.table {
+    width: 60%;
+    margin: auto;
+}
+.newSignUp-box form{
+    margin: auto;
+}
+.nav-tabs {
+    margin-left: 50px;
+    margin-right: 50px;
+    width: 50%;
+}
+.card-body {
+    background-color: rgb(183, 227, 241);
+}
