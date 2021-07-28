@@ -40,7 +40,7 @@ session_start();
 
   <!--Login Start-->
   <div class="heading1">
-    <h3 class="text-center">Exam Result Evaluation System</h3>
+    <h3 class="text-center">Student Registeration and Result Evaluation System</h3>
   </div>
 
 
